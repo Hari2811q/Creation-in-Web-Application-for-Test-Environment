@@ -28,6 +28,9 @@ yum install httpd -y
 
 systemctl enable httpd
 systemctl start httpd
+
+
+
 ## OUTPUT
 Terminal:
 ![image](https://github.com/user-attachments/assets/682a5a86-3716-4ec5-adca-480d08415abe)
